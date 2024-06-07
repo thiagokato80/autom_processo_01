@@ -14,3 +14,6 @@ Necessária criação de credencial do Google para utilização da API do Gmail
 https://console.cloud.google.com/apis/dashboard
 
 Atualizar os e-mails no arquivo de e-mail.
+
+
+# No diretório Automacao WEB encontra-se uma automação de buscador de preços
